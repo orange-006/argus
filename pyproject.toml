@@ -1,0 +1,8 @@
+[project]
+name = "argus-monitor"
+version = "1.1.0"
+description = "Local-first brand monitoring and evidence-based alert workbench"
+requires-python = ">=3.12"
+
+[tool.ruff]
+line-length = 120
